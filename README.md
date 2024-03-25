@@ -5,17 +5,15 @@ More about the course [at Udemy's course page](https://www.udemy.com/course/the-
 
 ## Ongoing
 
-- [ ] Section 4: Multi-Page Websites :hourglass_flowing_sand:
-- [ ] Capstone Project 1: Online Resume :hourglass_flowing_sand:
+- [ ] Section 5: Introduction to CSS :hourglass_flowing_sand:
 
 ## To-do
 
-- [ ] Section 5: Introduction to CSS
-- [ ] Section 6:
-- [ ] Section 7:
-- [ ] Section 8:
-- [ ] Section 9:
-- [ ] Section 10:
+- [ ] Section 6: CSS Properties
+- [ ] Section 7: Intermediate CSS
+- [ ] Section 8: Advanced CSS
+- [ ] Section 9: Flexbox
+- [ ] Section 10: Grid
 
 - [ ] Capstone Project 2:
 - [ ] Capstone Project 3:
@@ -24,6 +22,13 @@ More about the course [at Udemy's course page](https://www.udemy.com/course/the-
 
 ## Completed
 
+### Course Sections
+
 - [x] Section 1: Front-End Web Development :tada:
 - [x] Section 2: Introduction to HTML :tada:
 - [x] Section 3: Intermediate HTML :tada:
+- [x] Section 4: Multi-Page Websites :tada:
+
+### Course Projects
+
+- [x] Capstone Project 1: Online Resume :tada:
