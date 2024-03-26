@@ -5,11 +5,10 @@ More about the course [at Udemy's course page](https://www.udemy.com/course/the-
 
 ## Ongoing :hourglass_flowing_sand:
 
-- [ ] Section 6: CSS Properties :hourglass_flowing_sand:
+- [ ] Section 7: Intermediate CSS :hourglass_flowing_sand:
 
 ## To-do :memo:
 
-- [ ] Section 7: Intermediate CSS
 - [ ] Section 8: Advanced CSS
 - [ ] Section 9: Flexbox
 - [ ] Section 10: Grid
@@ -28,6 +27,7 @@ More about the course [at Udemy's course page](https://www.udemy.com/course/the-
 - [x] Section 3: Intermediate HTML :tada:
 - [x] Section 4: Multi-Page Websites :tada:
 - [x] Section 5: Introduction to CSS :tada:
+- [x] Section 6: CSS Properties :tada:
 
 ### Course Projects
 

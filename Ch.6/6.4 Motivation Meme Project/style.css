@@ -1,0 +1,35 @@
+/*FONT*/
+.libre-baskerville-regular {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.libre-baskerville-bold {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.libre-baskerville-regular-italic {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+h1{
+    text-transform: uppercase;
+}
+
+/*BG*/
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+/*IMG*/
+#meme{
+    border: 5px solid white;
+    margin-top: 50px;
+}
