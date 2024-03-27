@@ -10,3 +10,17 @@ p {
   margin: 0;
   padding: 0;
 }
+
+/* MyCSS*/
+.white-text{
+  color: white;
+}
+
+.inner-box{
+  background-color: red;
+}
+
+#outer-box{
+  /*border: 10px solid purple;*/
+  background-color: purple;
+}
