@@ -5,17 +5,21 @@ More about the course [at Udemy's course page](https://www.udemy.com/course/the-
 
 ## Ongoing :hourglass_flowing_sand:
 
-- [ ] Section 8: Advanced CSS :hourglass_flowing_sand:
+- [ ] Section 9: Flexbox :hourglass_flowing_sand:
 
 ## To-do :memo:
 
-- [ ] Section 9: Flexbox
 - [ ] Section 10: Grid
+- [ ] Section 11: TBC
+- [ ] Section 12: TBC
+- [ ] Section 13: TBC
+- [ ] Section 14: TBC
+- [ ] Section 15: TBC
 
-- [ ] Capstone Project 2: ?
-- [ ] Capstone Project 3: ?
-- [ ] Capstone Project 4: ?
-- [ ] Capstone Project 5: ?
+- [ ] Capstone Project 2: TBC
+- [ ] Capstone Project 3: TBC
+- [ ] Capstone Project 4: TBC
+- [ ] Capstone Project 5: TBC
 
 ## Completed! :tada::tada::tada:
 
@@ -37,6 +41,7 @@ More about the course [at Udemy's course page](https://www.udemy.com/course/the-
 - [x] Section 5: Introduction to CSS :tada:
 - [x] Section 6: CSS Properties :tada:
 - [x] Section 7: Intermediate CSS :tada:
+- [x] Section 8: Advanced CSS :tada:
 
 </details>
 
