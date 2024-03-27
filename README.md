@@ -21,13 +21,24 @@ More about the course [at Udemy's course page](https://www.udemy.com/course/the-
 
 ### Course Sections
 
+<details>
+  <summary>HTML</summary>
+
 - [x] Section 1: Front-End Web Development :tada:
 - [x] Section 2: Introduction to HTML :tada:
 - [x] Section 3: Intermediate HTML :tada:
 - [x] Section 4: Multi-Page Websites :tada:
+
+</details>
+
+<details>
+  <summary>CSS</summary>
+
 - [x] Section 5: Introduction to CSS :tada:
 - [x] Section 6: CSS Properties :tada:
 - [x] Section 7: Intermediate CSS :tada:
+
+</details>
 
 ### Course Projects
 
