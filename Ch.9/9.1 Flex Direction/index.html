@@ -13,13 +13,15 @@
     .container {
       color: white;
       border: 5px solid gold;
-      display: flex;
+      display: inline-flex; /* sets the width of box automatically based on content */
+      flex-direction: column; /* change flex to create columns */
+      /*width: 50px;  change width of container */
     }
 
-    /*
-Select all the elements that are the direct
-children of the .container class.
-    */
+    /* Select all the elements that are the direct children of the .container class. */
+    .container > * {
+      flex-basis: 100px; /* set heigh of boxes, heigh because of flex direction */
+    }
 
     .red {background-color: #eb4d4b;}
     .orange {background-color: #f0932b;}
