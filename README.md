@@ -5,17 +5,16 @@ More about the course [at Udemy's course page](https://www.udemy.com/course/the-
 
 ## Ongoing :hourglass_flowing_sand:
 
-- [ ] Section 10: Grid :hourglass_flowing_sand:
+- [ ] Section 11: Bootstrap :hourglass_flowing_sand:
 
 ## To-do :memo:
 
-- [ ] Section 11: TBC
-- [ ] Section 12: TBC
-- [ ] Section 13: TBC
-- [ ] Section 14: TBC
-- [ ] Section 15: TBC
+- [ ] Section 12: Web Design School - Create a Website that People Love
+- [ ] Section 13: Capstone Project 2
+- [ ] Section 14: Introduction to Javascript ES6
+- [ ] Section 15: Intermediate Javascript
 
-- [ ] Capstone Project 2: TBC
+- [ ] Capstone Project 2 - Personal Site
 - [ ] Capstone Project 3: TBC
 - [ ] Capstone Project 4: TBC
 - [ ] Capstone Project 5: TBC
@@ -42,6 +41,7 @@ More about the course [at Udemy's course page](https://www.udemy.com/course/the-
 - [x] Section 7: Intermediate CSS :tada:
 - [x] Section 8: Advanced CSS :tada:
 - [x] Section 9: Flexbox :tada:
+- [x] Section 10: Grid :tada:
 
 </details>
 
