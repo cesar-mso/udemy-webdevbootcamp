@@ -5,11 +5,10 @@ More about the course [at Udemy's course page](https://www.udemy.com/course/the-
 
 ## Ongoing :hourglass_flowing_sand:
 
-- [ ] Section 11: Bootstrap :hourglass_flowing_sand:
+- [ ] Section 12: Web Design School - Create a Website that People Love :hourglass_flowing_sand:
 
 ## To-do :memo:
 
-- [ ] Section 12: Web Design School - Create a Website that People Love
 - [ ] Section 13: Capstone Project 2
 - [ ] Section 14: Introduction to Javascript ES6
 - [ ] Section 15: Intermediate Javascript
@@ -42,6 +41,7 @@ More about the course [at Udemy's course page](https://www.udemy.com/course/the-
 - [x] Section 8: Advanced CSS :tada:
 - [x] Section 9: Flexbox :tada:
 - [x] Section 10: Grid :tada:
+- [x] Section 11: Bootstrap :tada:
 
 </details>
 
