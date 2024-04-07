@@ -5,15 +5,13 @@ More about the course [at Udemy's course page](https://www.udemy.com/course/the-
 
 ## Ongoing :hourglass_flowing_sand:
 
-- [ ] Section 12: Web Design School - Create a Website that People Love :hourglass_flowing_sand:
+- [ ] Section 13: Capstone Project 2 :hourglass_flowing_sand:
 
 ## To-do :memo:
 
-- [ ] Section 13: Capstone Project 2
 - [ ] Section 14: Introduction to Javascript ES6
 - [ ] Section 15: Intermediate Javascript
 
-- [ ] Capstone Project 2 - Personal Site
 - [ ] Capstone Project 3: TBC
 - [ ] Capstone Project 4: TBC
 - [ ] Capstone Project 5: TBC
@@ -42,6 +40,7 @@ More about the course [at Udemy's course page](https://www.udemy.com/course/the-
 - [x] Section 9: Flexbox :tada:
 - [x] Section 10: Grid :tada:
 - [x] Section 11: Bootstrap :tada:
+- [x] Section 12: Web Design School - Create a Website that People Love :tada:
 
 </details>
 
