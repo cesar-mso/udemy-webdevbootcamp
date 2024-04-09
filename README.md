@@ -5,12 +5,15 @@ More about the course [at Udemy's course page](https://www.udemy.com/course/the-
 
 ## Ongoing :hourglass_flowing_sand:
 
-- [ ] Section 13: Capstone Project 2 :hourglass_flowing_sand:
+- [ ] Section 14: Introduction to Javascript ES6 :hourglass_flowing_sand:
 
 ## To-do :memo:
 
-- [ ] Section 14: Introduction to Javascript ES6
 - [ ] Section 15: Intermediate Javascript
+- [ ] Section 16: The Document Object Model (DOM)
+- [ ] Section 17: Boss Level Challenge 1 - The Dicee Game
+- [ ] Section 18: Advanced Javascript and DOM Manipulation
+- [ ] Section 19: jQuery
 
 - [ ] Capstone Project 3: TBC
 - [ ] Capstone Project 4: TBC
@@ -47,3 +50,4 @@ More about the course [at Udemy's course page](https://www.udemy.com/course/the-
 ### Course Projects
 
 - [x] Capstone Project 1: Online Resume :tada:
+- [x] Capstone Project 2: Personal site :tada:
