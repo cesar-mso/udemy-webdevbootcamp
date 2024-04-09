@@ -1,29 +1,49 @@
-# Project Description
-The goal of this project is to create a personal website that showcases your skills, experiences, and interests. The website should be visually appealing and easy to navigate, while also providing relevant information about you and your background. The site should be built entirely with HTML and CSS, with no JavaScript code included.
+# "The Complete 2024 Web Development Bootcamp" from Udemy course files
 
-## Example
-[Capstone example](https://appbrewery.github.io/capstone-2-example)
+Repo for storing the completed course content and Capstone projects.
+More about the course [at Udemy's course page](https://www.udemy.com/course/the-complete-web-development-bootcamp/).
 
-## Deliverables
-* One HTML file for the structure of the website
-* One CSS file for the styling of the website
-* Any additional assets (e.g. images) used in the website
+## Ongoing :hourglass_flowing_sand:
 
-## Features
-* A hero section that provides a brief introduction to you and your background.
-* A resume page that lists your education, work experience, skills, and other relevant information (you can link to Capstone project 1).
-* A section that showcases any projects or work that you have done in the past.
-* An about me section that provides additional information about you and your interests.
-* A contact me section that includes information for users to get in touch with you.
+- [ ] Section 13: Capstone Project 2 :hourglass_flowing_sand:
 
-## Technical Requirements
-* All HTML should be valid and follow proper semantic markup.
-* All CSS should be valid and follow best practices for naming conventions and organization.
-* The website should be responsive and work on different screen sizes and devices.
-* All images used in the website should have appropriate alt text to be accessible.
+## To-do :memo:
 
-## Timeline
-* Hour 1: Gather content and design ideas, create wireframes and mockups.
-* Hour 2-3: Develop HTML structure and CSS styling, test on different devices and browsers.
-* Hour 4: Finalize design and content, make any necessary revisions, optimize for performance.
-* Hour 5: Launch the website and share with others in the Q&A for feedback, make any final adjustments.
+- [ ] Section 14: Introduction to Javascript ES6
+- [ ] Section 15: Intermediate Javascript
+
+- [ ] Capstone Project 3: TBC
+- [ ] Capstone Project 4: TBC
+- [ ] Capstone Project 5: TBC
+
+## Completed! :tada::tada::tada:
+
+### Course Sections
+
+<details>
+  <summary>HTML</summary>
+
+- [x] Section 1: Front-End Web Development :tada:
+- [x] Section 2: Introduction to HTML :tada:
+- [x] Section 3: Intermediate HTML :tada:
+- [x] Section 4: Multi-Page Websites :tada:
+
+</details>
+
+<details>
+  <summary>CSS</summary>
+
+- [x] Section 5: Introduction to CSS :tada:
+- [x] Section 6: CSS Properties :tada:
+- [x] Section 7: Intermediate CSS :tada:
+- [x] Section 8: Advanced CSS :tada:
+- [x] Section 9: Flexbox :tada:
+- [x] Section 10: Grid :tada:
+- [x] Section 11: Bootstrap :tada:
+- [x] Section 12: Web Design School - Create a Website that People Love :tada:
+
+</details>
+
+### Course Projects
+
+- [x] Capstone Project 1: Online Resume :tada:
