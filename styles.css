@@ -1,0 +1,58 @@
+body{
+    color: #070F2B;
+}
+
+p, li{
+    text-align: left;
+    list-style-type: none;
+}
+
+.profile-img{
+    height: 100%;
+    border-radius: 50%;
+}
+
+.bg-1{
+    background-color: #B3C8CF;
+}
+
+.bg-2 {
+    background-color: #F1EEDC;
+    
+}
+
+.bg-3 {
+    background-color: #BED7DC;
+}
+
+.bg-4 {
+    background-color: #F1EEDC;
+}
+
+.bg-5 {
+    background-color: #E5DDC5;
+}
+
+.container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+}
+
+.navbar-nav li {
+    display: inline;
+}
+
+.navbar-nav li a:hover {
+    color: #1abc9c !important;
+}
+
