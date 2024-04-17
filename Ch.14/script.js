@@ -28,4 +28,8 @@ alert("Hello " + myName + ", nice to meet you!!");*/
     /*console.log("a is " + a);
     console.log("b is " + b);*/
 
-/* Code sample - Section 14, excercise 79 - coding exercise */
+/* Code sample - Section 14, excercise 82 - coding exercise */
+var greeting = "Hello"
+var myName = "Cesar"
+
+alert(greeting + " " + myName + "!");
