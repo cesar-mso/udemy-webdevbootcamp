@@ -28,8 +28,28 @@ alert("Hello " + myName + ", nice to meet you!!");*/
     /*console.log("a is " + a);
     console.log("b is " + b);*/
 
-/* Code sample - Section 14, excercise 82 - coding exercise */
+/* Code sample - Section 14, excercise 82 - coding exercise 
 var greeting = "Hello"
 var myName = "Cesar"
 
-alert(greeting + " " + myName + "!");
+alert(greeting + " " + myName + "!");*/
+
+/* Code sample - Section 14, excercise 83 - coding exercise 
+var name = "Cesar Ojeda"
+alert(name.length);
+
+var input = prompt("Tell me something shorter than 140 characters, and I'll count all characters...");
+var count = input.length;
+var max = 140;
+var total = max - count;
+
+var msg = "Let me see...";
+
+//alert(count);
+//alert(max);
+//alert(total);
+
+alert(msg);
+alert("You typed " + count + " characters, and have " + total + " characters remaining!");*/
+
+/* Code sample - Section 14, excercise 84 - coding exercise */
