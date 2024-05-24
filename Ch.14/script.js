@@ -52,4 +52,21 @@ var msg = "Let me see...";
 alert(msg);
 alert("You typed " + count + " characters, and have " + total + " characters remaining!");*/
 
-/* Code sample - Section 14, excercise 84 - coding exercise */
+/* Code sample - Section 14, excercise 84 - coding exercise 
+var myName = "Cesar Ojedasaa";
+alert(myName.slice(1,5));
+
+// Count excersice
+var input = prompt("Tell me something and I will shorten it to less than 140 characters");
+var count = input.length;
+var max = 140;
+
+var total = input.slice(0,140);
+
+var msg = "Let me see...";
+alert(msg);
+alert(total);
+//alert(max);
+//alert(total);*/
+
+/* Code sample - Section 14, excercise 85 - coding exercise */
