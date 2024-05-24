@@ -69,4 +69,23 @@ alert(total);
 //alert(max);
 //alert(total);*/
 
-/* Code sample - Section 14, excercise 85 - coding exercise */
+/* Code sample - Section 14, excercise 85 + 86 - coding CHALLENGE WOW OMG r u 4 realz 
+var myName = "cesar ojeda";
+alert(myName.toUpperCase());
+alert(myName.toLowerCase());*/
+
+// make first letter in name capital excersice
+var input = prompt("Tell me your name, stranger...");
+var inputLength = input.length;
+var firstLetter = input.slice(0,1);
+var remainingLetters = input.slice(1,inputLength);
+var properName = firstLetter.toUpperCase() + remainingLetters;
+
+
+alert("Let me see...");
+alert("Your name is " + inputLength + " characters long...");
+alert('It starts with the letter "' + firstLetter + '"...');
+alert('and finishes with "' + remainingLetters + '"...');
+alert("Nice to meet you, " + properName + "!");
+
+// need to validate this as i dont have internet!!
